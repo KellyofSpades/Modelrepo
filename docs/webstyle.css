@@ -1,10 +1,6 @@
 body
 {
-    background-color: LightSteelBlue;
-}
-h1
-{
-    text-align: center;
+    background-color: LightGrey;
 }
 p
 {
@@ -13,13 +9,22 @@ p
 }
 figure
 {
-    width: 60%;
+    width: 50%;
 }
 img
 {
-    width: 60%;
+    width: 40%;
 }
 section
 {
-    background-color: GainsBoro;
+    background-color: MintCream;
+}
+img#Spade
+{
+    height: 10%;
+    width: 10%;
+}
+section.resume
+{
+    padding-left: 5em;
 }
