@@ -13,11 +13,12 @@ figure
 }
 img
 {
-    width: 40%;
+    width: 60%;
 }
 section
 {
     background-color: MintCream;
+    margin: auto;
 }
 img#Spade
 {
@@ -27,4 +28,9 @@ img#Spade
 section.resume
 {
     padding-left: 5em;
+}
+div.flex
+{
+    display: flex;
+    padding-left: 2em;
 }
